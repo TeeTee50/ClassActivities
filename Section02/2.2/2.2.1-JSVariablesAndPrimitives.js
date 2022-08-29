@@ -1,6 +1,7 @@
 // create a constant variable (const)
-const myName = "Latishia";
+const myName = "LaTishia";
 // create a variable that can be reassigned (let)
+// eslint-disable-next-line no-unused-vars
 let age = 50;
 // create three variables and assign them values of different data types (=)
 let str = "Hello";
