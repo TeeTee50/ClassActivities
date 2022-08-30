@@ -1,0 +1,31 @@
+ODO: using the function expressions below, refactor them into function declarations
+/
+// Great Function
+
+const greet = function() {
+  console.log("Hello!");
+};
+
+//greet
+function greet (); {}
+const threeModTwo = function() {
+  console.log(3 % 2);
+};
+function threeModTwo = function() {}
+let age = 18;
+const checkDrivingAge = function() {
+  if (age >= 16) {
+    console.log(true);
+  } else {
+    console.log(false);
+  }
+};
+function checkDrivingAve() {
+  function threeModTwo = function() {}
+if age = 18;
+const checkDrivingAge = function() {
+  if (age >= 16) {
+    console.log(true);
+  } else {
+    console.log(false);}
+  }
