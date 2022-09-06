@@ -1,0 +1,17 @@
+body {
+     border: 3px;
+     background-color: gray
+}
+
+h1 {
+  margin: auto;
+  text-align: Center
+}
+
+img {
+    width: 300px;
+    height: auto
+}
+* {
+    border: 3px solid black
+}

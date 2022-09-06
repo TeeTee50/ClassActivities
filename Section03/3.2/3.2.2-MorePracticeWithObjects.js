@@ -2,7 +2,7 @@
 const key = "1";
 const obj = {
   key: console.log("the key is 'key'"),
-  1: console.log("the key is 1"),
+  1: console.log("the key is 1")
 };
 
 // what will the following lines print?
@@ -46,4 +46,3 @@ for (let key in keys) {
 // Use a template literal to print a sentence about your favorite things
 
 // Access the values "b", 4, and 6 from obj.list
-
